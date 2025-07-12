@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelos.Entidades
 {
-    internal class Categoria
+    public class Categoria
     {
     }
 }
