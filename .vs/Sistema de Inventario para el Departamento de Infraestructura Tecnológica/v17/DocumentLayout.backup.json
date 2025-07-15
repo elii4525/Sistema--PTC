@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\",
+  "WorkspaceRootPath": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\perez\\onedrive\\desktop\\sistema--ptc\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\perez\\onedrive\\desktop\\sistema--ptc\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\historialsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\historialsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|c:\\users\\danie\\desktop\\sistema--ptc\\modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DFE6F1-6F3A-4CA5-96E5-E97DC947222B}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\perez\\onedrive\\desktop\\sistema--ptc\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,80 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Categoria.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAlwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:59:45.725Z",
+              "WhenOpened": "2025-07-15T18:28:18.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Material.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Material.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Material.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:59:32.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HistorialSolicitud.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\HistorialSolicitud.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\HistorialSolicitud.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\HistorialSolicitud.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\HistorialSolicitud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:58:52.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Solicitud.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Solicitud.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Solicitud.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Solicitud.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Solicitud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:58:18.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Rol.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Rol.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Rol.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:56:33.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T16:30:31.992Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Usuario.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Sistema--PTC\\Modelos\\Entidades\\Usuario.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Program.cs",
+              "RelativeDocumentMoniker": "Vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\perez\\OneDrive\\Desktop\\Sistema--PTC\\Vistas\\Program.cs",
+              "RelativeToolTip": "Vistas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:52:37.774Z",
+              "WhenOpened": "2025-07-15T16:24:39.113Z",
               "EditorCaption": ""
             }
           ]
