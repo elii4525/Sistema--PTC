@@ -46,6 +46,78 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formularios\frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm.Designer.cs">
+      <DependentUpon>frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm1.Designer.cs">
+      <DependentUpon>frm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm10.Designer.cs">
+      <DependentUpon>frm10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm2.Designer.cs">
+      <DependentUpon>frm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm3.Designer.cs">
+      <DependentUpon>frm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm4.Designer.cs">
+      <DependentUpon>frm4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm5.Designer.cs">
+      <DependentUpon>frm5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm6.Designer.cs">
+      <DependentUpon>frm6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm7.Designer.cs">
+      <DependentUpon>frm7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm8.Designer.cs">
+      <DependentUpon>frm8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm9.Designer.cs">
+      <DependentUpon>frm9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmInventario.Designer.cs">
+      <DependentUpon>frmInventario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\frmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
