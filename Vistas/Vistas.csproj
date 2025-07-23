@@ -127,6 +127,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Usuario.cs" />
+    <EmbeddedResource Include="Formularios\frm5.resx">
+      <DependentUpon>frm5.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
     </EmbeddedResource>
@@ -174,6 +177,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\window_restore_icon_181231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-inventario-46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-correo-46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pasado-46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ajustes-46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-07-22 at 21.54.33.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
