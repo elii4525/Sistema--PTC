@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Vistas.Formularios
 {
-    public partial class frm1 : Form
+    public partial class frmBienvenido1 : Form
     {
-        public frm1()
+        public frmBienvenido1()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

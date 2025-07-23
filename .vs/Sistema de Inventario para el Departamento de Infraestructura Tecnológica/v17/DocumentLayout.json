@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\",
   "Documents": [
     {
@@ -25,6 +26,33 @@
     {
       "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Admin\\Desktop\\Sistema--PTC\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\fatim\\onedrive\\escritorio\\sistema--ptc\\vistas\\formularios\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\fatim\\onedrive\\escritorio\\sistema--ptc\\vistas\\formularios\\frmbienvenido1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmbienvenido1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\fatim\\onedrive\\escritorio\\sistema--ptc\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -57,12 +86,75 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frm5.cs",
               "RelativeToolTip": "Vistas\\Formularios\\frm5.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:30:31.992Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frm2.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frm2.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frm2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frm2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T03:38:12.27Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBienvenido1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmBienvenido1.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmBienvenido1.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmBienvenido1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmBienvenido1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:57:10.41Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmInventario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmInventario.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:55:33.396Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAApwDcAAAAAAAAAAAAAAA==",
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T22:53:49.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "frm5.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frm5.cs",
@@ -103,6 +195,13 @@
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Program.cs",
               "RelativeDocumentMoniker": "Vistas\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Program.cs",
+=======
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Program.cs",
+              "RelativeDocumentMoniker": "Vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatim\\OneDrive\\Escritorio\\Sistema--PTC\\Vistas\\Program.cs",
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "RelativeToolTip": "Vistas\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

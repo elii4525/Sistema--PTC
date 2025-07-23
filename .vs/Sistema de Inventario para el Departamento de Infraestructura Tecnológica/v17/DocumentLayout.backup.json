@@ -7,6 +7,7 @@
       "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frm5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\admin\\desktop\\sistema--ptc\\vistas\\formularios\\frm5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frm5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,11 +21,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Admin\\Desktop\\Sistema--PTC\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\perez\\onedrive\\desktop\\c# proyecto ptc\\sistema--ptc\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
       "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|C:\\Users\\Admin\\Desktop\\Sistema--PTC\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|c:\\users\\perez\\onedrive\\desktop\\c# proyecto ptc\\sistema--ptc\\vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D990BB9D-A3D2-4036-9E76-F46A36B8C66E}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +50,11 @@
               "Title": "frmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+<<<<<<< HEAD
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+=======
+              "ToolTip": "C:\\Users\\perez\\OneDrive\\Desktop\\C# PROYECTO PTC\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]",
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T16:30:31.992Z",
@@ -51,6 +63,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "frm5.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frm5.cs",
@@ -77,6 +90,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "Title": "frmInventario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmInventario.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmInventario.cs",
@@ -88,11 +104,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 1,
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "Title": "frmMenu.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmMenu.cs",
+<<<<<<< HEAD
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+=======
+              "ToolTip": "C:\\Users\\perez\\OneDrive\\Desktop\\C# PROYECTO PTC\\Sistema--PTC\\Vistas\\Formularios\\frmMenu.cs",
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "RelativeToolTip": "Vistas\\Formularios\\frmMenu.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAApwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,7 +125,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sistema--PTC\\Vistas\\Program.cs",
               "RelativeDocumentMoniker": "Vistas\\Program.cs",

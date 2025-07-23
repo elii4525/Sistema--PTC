@@ -52,11 +52,11 @@
     <Compile Include="Formularios\frm.Designer.cs">
       <DependentUpon>frm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm1.cs">
+    <Compile Include="Formularios\frmBienvenido1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm1.Designer.cs">
-      <DependentUpon>frm1.cs</DependentUpon>
+    <Compile Include="Formularios\frmBienvenido1.Designer.cs">
+      <DependentUpon>frmBienvenido1.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frm10.cs">
       <SubType>Form</SubType>
@@ -127,8 +127,16 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Usuario.cs" />
+<<<<<<< HEAD
     <EmbeddedResource Include="Formularios\frm5.resx">
       <DependentUpon>frm5.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Formularios\frm2.resx">
+      <DependentUpon>frm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmBienvenido1.resx">
+      <DependentUpon>frmBienvenido1.cs</DependentUpon>
+>>>>>>> 6b97be24f4cd5cd850769ea287a7a9a08b108cc6
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
