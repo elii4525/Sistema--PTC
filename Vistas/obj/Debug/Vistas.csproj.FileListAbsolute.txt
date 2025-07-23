@@ -26,3 +26,6 @@ C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vi
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.csproj.Up2Date
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.exe
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.pdb
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmInventarioAggMaterial.resources
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmActualizarEliminarMaterial.resources
