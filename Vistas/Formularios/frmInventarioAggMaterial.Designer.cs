@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmInventarioAggMaterial));
             this.lblAggMaterial = new System.Windows.Forms.Label();
             this.lblNombre = new System.Windows.Forms.Label();
@@ -44,18 +43,12 @@
             this.btnActualizarOEliminarMaterial = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.cbAggCategoriaMaterial = new System.Windows.Forms.ComboBox();
-            this.dgvMaterialAgregado = new System.Windows.Forms.DataGridView();
-            this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Marca = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Modelo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Categoria = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Cantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvMaterialAgregado)).BeginInit();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // lblAggMaterial
@@ -185,7 +178,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(78, 581);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(302, 46);
+            this.label1.Size = new System.Drawing.Size(294, 45);
             this.label1.TabIndex = 13;
             this.label1.Text = "Material agregado";
             // 
@@ -196,80 +189,6 @@
             this.cbAggCategoriaMaterial.Name = "cbAggCategoriaMaterial";
             this.cbAggCategoriaMaterial.Size = new System.Drawing.Size(600, 24);
             this.cbAggCategoriaMaterial.TabIndex = 15;
-            // 
-            // dgvMaterialAgregado
-            // 
-            this.dgvMaterialAgregado.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvMaterialAgregado.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.dgvMaterialAgregado.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.dgvMaterialAgregado.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
-            this.dgvMaterialAgregado.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.ActiveCaption;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvMaterialAgregado.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
-            this.dgvMaterialAgregado.ColumnHeadersHeight = 30;
-            this.dgvMaterialAgregado.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Nombre,
-            this.Marca,
-            this.Modelo,
-            this.Categoria,
-            this.Cantidad,
-            this.Descripcion});
-            this.dgvMaterialAgregado.EnableHeadersVisualStyles = false;
-            this.dgvMaterialAgregado.Location = new System.Drawing.Point(101, 663);
-            this.dgvMaterialAgregado.Name = "dgvMaterialAgregado";
-            this.dgvMaterialAgregado.ReadOnly = true;
-            this.dgvMaterialAgregado.RowHeadersVisible = false;
-            this.dgvMaterialAgregado.RowHeadersWidth = 51;
-            this.dgvMaterialAgregado.RowTemplate.Height = 24;
-            this.dgvMaterialAgregado.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvMaterialAgregado.Size = new System.Drawing.Size(943, 176);
-            this.dgvMaterialAgregado.TabIndex = 18;
-            // 
-            // Nombre
-            // 
-            this.Nombre.FillWeight = 16.04278F;
-            this.Nombre.HeaderText = "Nombre";
-            this.Nombre.MinimumWidth = 6;
-            this.Nombre.Name = "Nombre";
-            this.Nombre.ReadOnly = true;
-            // 
-            // Marca
-            // 
-            this.Marca.FillWeight = 16.04278F;
-            this.Marca.HeaderText = "Marca";
-            this.Marca.MinimumWidth = 6;
-            this.Marca.Name = "Marca";
-            this.Marca.ReadOnly = true;
-            // 
-            // Modelo
-            // 
-            this.Modelo.FillWeight = 16.04278F;
-            this.Modelo.HeaderText = "Modelo";
-            this.Modelo.MinimumWidth = 6;
-            this.Modelo.Name = "Modelo";
-            this.Modelo.ReadOnly = true;
-            // 
-            // Categoria
-            // 
-            this.Categoria.FillWeight = 16.04278F;
-            this.Categoria.HeaderText = "Categoría";
-            this.Categoria.MinimumWidth = 6;
-            this.Categoria.Name = "Categoria";
-            this.Categoria.ReadOnly = true;
-            // 
-            // Cantidad
-            // 
-            this.Cantidad.FillWeight = 16.04278F;
-            this.Cantidad.HeaderText = "Cantidad";
-            this.Cantidad.MinimumWidth = 6;
-            this.Cantidad.Name = "Cantidad";
-            this.Cantidad.ReadOnly = true;
             // 
             // pictureBox1
             // 
@@ -300,12 +219,20 @@
             this.textBox1.Size = new System.Drawing.Size(604, 22);
             this.textBox1.TabIndex = 21;
             // 
-            // Descripcion
+            // dataGridView1
             // 
-            this.Descripcion.HeaderText = "Descripción";
-            this.Descripcion.MinimumWidth = 6;
-            this.Descripcion.Name = "Descripcion";
-            this.Descripcion.ReadOnly = true;
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(86, 648);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.RowHeadersVisible = false;
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridView1.Size = new System.Drawing.Size(834, 167);
+            this.dataGridView1.TabIndex = 22;
             // 
             // frmInventarioAggMaterial
             // 
@@ -313,10 +240,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1902, 1033);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.dgvMaterialAgregado);
             this.Controls.Add(this.cbAggCategoriaMaterial);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnActualizarOEliminarMaterial);
@@ -334,8 +261,8 @@
             this.Name = "frmInventarioAggMaterial";
             this.Text = "frm3";
             this.Load += new System.EventHandler(this.frmInventarioAggMaterial_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvMaterialAgregado)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -357,15 +284,9 @@
         private System.Windows.Forms.Button btnActualizarOEliminarMaterial;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cbAggCategoriaMaterial;
-        private System.Windows.Forms.DataGridView dgvMaterialAgregado;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Marca;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Modelo;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Categoria;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Cantidad;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Descripcion;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
