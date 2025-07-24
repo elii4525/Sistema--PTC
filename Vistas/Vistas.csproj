@@ -133,6 +133,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmLoginCorrecto.resx">
       <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmActualizarEliminarMaterial.resx">
       <DependentUpon>frmActualizarEliminarMaterial.cs</DependentUpon>
     </EmbeddedResource>
