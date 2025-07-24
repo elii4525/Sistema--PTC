@@ -26,6 +26,7 @@ C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vi
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.csproj.Up2Date
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.exe
 C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.pdb
+<<<<<<< HEAD
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\bin\Debug\Vistas.exe.config
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\bin\Debug\Vistas.exe
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\bin\Debug\Vistas.pdb
@@ -43,3 +44,8 @@ C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\obj\Debug\Vistas.pdb
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmLogin1.resources
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.LoginError.resources
 C:\Users\danie\OneDrive\Desktop\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmLoginCorrecto.resources
+=======
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmInventario.resources
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmInventarioAggMaterial.resources
+C:\Users\perez\OneDrive\Desktop\C# PROYECTO PTC\Sistema--PTC\Vistas\obj\Debug\Vistas.Formularios.frmActualizarEliminarMaterial.resources
+>>>>>>> 519a879f660e95e54bb17f81fdbab86552c51936

@@ -70,17 +70,17 @@
     <Compile Include="Formularios\frm2.Designer.cs">
       <DependentUpon>frm2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm3.cs">
+    <Compile Include="Formularios\frmInventarioAggMaterial.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm3.Designer.cs">
-      <DependentUpon>frm3.cs</DependentUpon>
+    <Compile Include="Formularios\frmInventarioAggMaterial.Designer.cs">
+      <DependentUpon>frmInventarioAggMaterial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm4.cs">
+    <Compile Include="Formularios\frmActualizarEliminarMaterial.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm4.Designer.cs">
-      <DependentUpon>frm4.cs</DependentUpon>
+    <Compile Include="Formularios\frmActualizarEliminarMaterial.Designer.cs">
+      <DependentUpon>frmActualizarEliminarMaterial.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frm5.cs">
       <SubType>Form</SubType>
@@ -127,11 +127,22 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Usuario.cs" />
+<<<<<<< HEAD
     <EmbeddedResource Include="Formularios\frmLogin1.resx">
       <DependentUpon>frmLogin1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmLoginCorrecto.resx">
       <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Formularios\frmActualizarEliminarMaterial.resx">
+      <DependentUpon>frmActualizarEliminarMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmInventario.resx">
+      <DependentUpon>frmInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmInventarioAggMaterial.resx">
+      <DependentUpon>frmInventarioAggMaterial.cs</DependentUpon>
+>>>>>>> 519a879f660e95e54bb17f81fdbab86552c51936
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>

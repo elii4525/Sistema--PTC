@@ -63,7 +63,7 @@
             this.pnlMenuVertical.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlMenuVertical.Location = new System.Drawing.Point(0, 0);
             this.pnlMenuVertical.Name = "pnlMenuVertical";
-            this.pnlMenuVertical.Size = new System.Drawing.Size(150, 1024);
+            this.pnlMenuVertical.Size = new System.Drawing.Size(186, 1080);
             this.pnlMenuVertical.TabIndex = 0;
             // 
             // button1
@@ -74,9 +74,9 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(25, 541);
+            this.button1.Location = new System.Drawing.Point(37, 550);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(107, 88);
+            this.button1.Size = new System.Drawing.Size(126, 88);
             this.button1.TabIndex = 4;
             this.button1.Text = "Usuarios";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -91,9 +91,9 @@
             this.btnConsumo.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnConsumo.Image = ((System.Drawing.Image)(resources.GetObject("btnConsumo.Image")));
             this.btnConsumo.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnConsumo.Location = new System.Drawing.Point(25, 419);
+            this.btnConsumo.Location = new System.Drawing.Point(37, 429);
             this.btnConsumo.Name = "btnConsumo";
-            this.btnConsumo.Size = new System.Drawing.Size(107, 91);
+            this.btnConsumo.Size = new System.Drawing.Size(126, 91);
             this.btnConsumo.TabIndex = 3;
             this.btnConsumo.Text = "Consumo";
             this.btnConsumo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -109,9 +109,9 @@
             this.btnSolicitudes.ForeColor = System.Drawing.Color.Black;
             this.btnSolicitudes.Image = ((System.Drawing.Image)(resources.GetObject("btnSolicitudes.Image")));
             this.btnSolicitudes.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnSolicitudes.Location = new System.Drawing.Point(25, 298);
+            this.btnSolicitudes.Location = new System.Drawing.Point(37, 301);
             this.btnSolicitudes.Name = "btnSolicitudes";
-            this.btnSolicitudes.Size = new System.Drawing.Size(107, 91);
+            this.btnSolicitudes.Size = new System.Drawing.Size(126, 93);
             this.btnSolicitudes.TabIndex = 2;
             this.btnSolicitudes.Text = "Solicitudes";
             this.btnSolicitudes.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -126,9 +126,9 @@
             this.btnInventario.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInventario.ForeColor = System.Drawing.Color.Black;
             this.btnInventario.Image = ((System.Drawing.Image)(resources.GetObject("btnInventario.Image")));
-            this.btnInventario.Location = new System.Drawing.Point(25, 173);
+            this.btnInventario.Location = new System.Drawing.Point(37, 175);
             this.btnInventario.Name = "btnInventario";
-            this.btnInventario.Size = new System.Drawing.Size(107, 91);
+            this.btnInventario.Size = new System.Drawing.Size(126, 93);
             this.btnInventario.TabIndex = 1;
             this.btnInventario.Text = "Inventario";
             this.btnInventario.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -139,7 +139,7 @@
             this.pbLogoIT.Image = ((System.Drawing.Image)(resources.GetObject("pbLogoIT.Image")));
             this.pbLogoIT.Location = new System.Drawing.Point(24, 12);
             this.pbLogoIT.Name = "pbLogoIT";
-            this.pbLogoIT.Size = new System.Drawing.Size(120, 90);
+            this.pbLogoIT.Size = new System.Drawing.Size(139, 106);
             this.pbLogoIT.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbLogoIT.TabIndex = 0;
             this.pbLogoIT.TabStop = false;
@@ -153,9 +153,9 @@
             this.pnlMenuTitulo.Controls.Add(this.pbMaximizar);
             this.pnlMenuTitulo.Controls.Add(this.pbCerrar);
             this.pnlMenuTitulo.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlMenuTitulo.Location = new System.Drawing.Point(150, 0);
+            this.pnlMenuTitulo.Location = new System.Drawing.Point(186, 0);
             this.pnlMenuTitulo.Name = "pnlMenuTitulo";
-            this.pnlMenuTitulo.Size = new System.Drawing.Size(1176, 100);
+            this.pnlMenuTitulo.Size = new System.Drawing.Size(1734, 118);
             this.pnlMenuTitulo.TabIndex = 1;
             this.pnlMenuTitulo.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlMenuTitulo_MouseDown);
             // 
@@ -163,7 +163,7 @@
             // 
             this.pbConfiguracion.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pbConfiguracion.Image = ((System.Drawing.Image)(resources.GetObject("pbConfiguracion.Image")));
-            this.pbConfiguracion.Location = new System.Drawing.Point(1108, 50);
+            this.pbConfiguracion.Location = new System.Drawing.Point(1666, 50);
             this.pbConfiguracion.Name = "pbConfiguracion";
             this.pbConfiguracion.Size = new System.Drawing.Size(43, 37);
             this.pbConfiguracion.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -175,7 +175,7 @@
             this.pbRestaurar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pbRestaurar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(61)))), ((int)(((byte)(61)))));
             this.pbRestaurar.Image = ((System.Drawing.Image)(resources.GetObject("pbRestaurar.Image")));
-            this.pbRestaurar.Location = new System.Drawing.Point(1108, 10);
+            this.pbRestaurar.Location = new System.Drawing.Point(1666, 10);
             this.pbRestaurar.Name = "pbRestaurar";
             this.pbRestaurar.Size = new System.Drawing.Size(25, 25);
             this.pbRestaurar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -189,7 +189,7 @@
             this.pbMinimizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pbMinimizar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(61)))), ((int)(((byte)(61)))));
             this.pbMinimizar.Image = ((System.Drawing.Image)(resources.GetObject("pbMinimizar.Image")));
-            this.pbMinimizar.Location = new System.Drawing.Point(1077, 10);
+            this.pbMinimizar.Location = new System.Drawing.Point(1635, 10);
             this.pbMinimizar.Name = "pbMinimizar";
             this.pbMinimizar.Size = new System.Drawing.Size(25, 25);
             this.pbMinimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -202,7 +202,7 @@
             this.pbMaximizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pbMaximizar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(61)))), ((int)(((byte)(61)))));
             this.pbMaximizar.Image = ((System.Drawing.Image)(resources.GetObject("pbMaximizar.Image")));
-            this.pbMaximizar.Location = new System.Drawing.Point(1108, 10);
+            this.pbMaximizar.Location = new System.Drawing.Point(1666, 10);
             this.pbMaximizar.Name = "pbMaximizar";
             this.pbMaximizar.Size = new System.Drawing.Size(25, 25);
             this.pbMaximizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -215,7 +215,7 @@
             this.pbCerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pbCerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(61)))), ((int)(((byte)(61)))), ((int)(((byte)(61)))));
             this.pbCerrar.Image = ((System.Drawing.Image)(resources.GetObject("pbCerrar.Image")));
-            this.pbCerrar.Location = new System.Drawing.Point(1139, 10);
+            this.pbCerrar.Location = new System.Drawing.Point(1697, 10);
             this.pbCerrar.Name = "pbCerrar";
             this.pbCerrar.Size = new System.Drawing.Size(25, 25);
             this.pbCerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -226,9 +226,9 @@
             // pnlContenedorForms
             // 
             this.pnlContenedorForms.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlContenedorForms.Location = new System.Drawing.Point(150, 100);
+            this.pnlContenedorForms.Location = new System.Drawing.Point(186, 118);
             this.pnlContenedorForms.Name = "pnlContenedorForms";
-            this.pnlContenedorForms.Size = new System.Drawing.Size(1176, 924);
+            this.pnlContenedorForms.Size = new System.Drawing.Size(1734, 962);
             this.pnlContenedorForms.TabIndex = 2;
             // 
             // frmMenu
@@ -236,7 +236,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(67)))), ((int)(((byte)(67)))));
-            this.ClientSize = new System.Drawing.Size(1326, 1024);
+            this.ClientSize = new System.Drawing.Size(1920, 1080);
             this.Controls.Add(this.pnlContenedorForms);
             this.Controls.Add(this.pnlMenuTitulo);
             this.Controls.Add(this.pnlMenuVertical);

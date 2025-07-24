@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace Vistas.Formularios
 {
-    public partial class frm4 : Form
+    public partial class frmActualizarEliminarMaterial : Form
     {
-        public frm4()
+        public frmActualizarEliminarMaterial()
         {
             InitializeComponent();
         }
+
     }
 }
