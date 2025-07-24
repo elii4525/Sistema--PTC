@@ -58,11 +58,11 @@
     <Compile Include="Formularios\frm1.Designer.cs">
       <DependentUpon>frm1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm10.cs">
+    <Compile Include="Formularios\LoginError.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm10.Designer.cs">
-      <DependentUpon>frm10.cs</DependentUpon>
+    <Compile Include="Formularios\LoginError.Designer.cs">
+      <DependentUpon>LoginError.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frm2.cs">
       <SubType>Form</SubType>
@@ -100,17 +100,17 @@
     <Compile Include="Formularios\frm7.Designer.cs">
       <DependentUpon>frm7.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm8.cs">
+    <Compile Include="Formularios\frmLoginCorrecto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm8.Designer.cs">
-      <DependentUpon>frm8.cs</DependentUpon>
+    <Compile Include="Formularios\frmLoginCorrecto.Designer.cs">
+      <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\frm9.cs">
+    <Compile Include="Formularios\frmLogin1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\frm9.Designer.cs">
-      <DependentUpon>frm9.cs</DependentUpon>
+    <Compile Include="Formularios\frmLogin1.Designer.cs">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frmInventario.cs">
       <SubType>Form</SubType>
@@ -127,8 +127,17 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Usuario.cs" />
+    <EmbeddedResource Include="Formularios\frmLogin1.resx">
+      <DependentUpon>frmLogin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLoginCorrecto.resx">
+      <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LoginError.resx">
+      <DependentUpon>LoginError.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -174,6 +183,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\window_restore_icon_181231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop - 47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rectangle 33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rectangle 33 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiplicar-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menos-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-error-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-error-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-alta-importancia-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-comprobado-60.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
