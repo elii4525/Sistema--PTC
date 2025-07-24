@@ -127,13 +127,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Usuario.cs" />
-<<<<<<< HEAD
+
     <EmbeddedResource Include="Formularios\frmLogin1.resx">
       <DependentUpon>frmLogin1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmLoginCorrecto.resx">
       <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
-=======
     <EmbeddedResource Include="Formularios\frmActualizarEliminarMaterial.resx">
       <DependentUpon>frmActualizarEliminarMaterial.cs</DependentUpon>
     </EmbeddedResource>
@@ -142,7 +141,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmInventarioAggMaterial.resx">
       <DependentUpon>frmInventarioAggMaterial.cs</DependentUpon>
->>>>>>> 519a879f660e95e54bb17f81fdbab86552c51936
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
